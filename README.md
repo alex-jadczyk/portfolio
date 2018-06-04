@@ -11,6 +11,6 @@ This is my portfolio code, can be seen live on http://alex-jadczyk.github.io/por
 
 ## Other remarks:
 
-This page was fast and easy to code, my own design. The only thing missing is the interaction (could be even made with pure CSS; for now I could not think of anything fitting this page). I used ready-made solutions like Bootstrap, Animate.css and Javascript code for smooth page scroll.
+This page was fast and easy to code, my own design. The only thing missing is the interaction (could be even made with pure CSS; for now I could not think of anything fitting this page). I used ready-made solutions like Bootstrap, Animate.css and jQuery code for smooth page scroll.
 
-In this project I realized the need to revise basics of PHP from university notes and to practice pure Javascript more (to make a project or two, even small ones). I also thought to use Bootstrap only with SASS or even not to use Bootstrap at all in the future (and use SCSS and CSS Grid instead). 
+In this project I realized the need to revise basics of PHP from university notes and to practice pure Javascript more (to make a project or two, even small ones). The use of Bootstrap was not reasonable here because most of its code is useless. I used it to try the newest version of it.
